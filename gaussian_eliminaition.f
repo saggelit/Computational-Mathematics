@@ -2,7 +2,7 @@
       implicit none
       real*8 :: A(4,5),f,x(1,4),sum,temp1(4,5),temp2(4,5)
       integer :: i,j,k,l
-!se periptwsh poy theloyme na dwsoume diaforerikes exiswseis      
+!in case of different equations     
 c      print*,"dwse tous syntelestes kathe exiswsis"
 c      do i=1,4
 c         do j=1,5
