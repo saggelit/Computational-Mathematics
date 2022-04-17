@@ -1,4 +1,4 @@
-    clear all; clc; clf;
+clear all; clc; clf;
 syms x
 f=@(x)(1.+sin(pi.*x));
 x1=[-1;0;1];
