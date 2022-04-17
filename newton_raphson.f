@@ -2,7 +2,7 @@
       implicit none
       real x0,x1,f,df,es,ea
 
-c      x0=2.  !gia ta apotelesmata tou pdf sthn 1h exiswsi
+c      x0=2.
 c      x0=1.
       x0=-0.5
       x1=x0-f(x0)/df(x0)
